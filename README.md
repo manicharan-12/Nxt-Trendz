@@ -9,12 +9,6 @@
 - Updated the cart based on the user interaction in the product section.
 
 
-### Set Up Instructions
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-
-
 ### Login Credentials
 
 - Prime User credentials
@@ -30,3 +24,10 @@
    username: raja
    password: raja@2021
   ```
+
+
+### Set Up Instructions
+
+- Download dependencies by running `npm install`
+- Start up the app using `npm start`
+
